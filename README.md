@@ -1,3 +1,6 @@
 # lab_redes_simple_server
-CÓDIGO DISPONIBILIZADO PARA CADEIRA DE LABORATÓRIO DE SISTEMA OPERACIONAIS PARA A REALIZAÇÃO DO TRABALHO 1  
-Simple_httml C que implementa um servidor HTML utilizando comunicação por socktes TCP 
+##Simple_httml_server.c 
+Código disponibilizado para a implementação de um servidor HTTP utilizando comunicação por socktes TCP 
+
+##http_server.c
+Código que exibe informações básicos de um sistema operacional Linux. 
